@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **muffakir63@gmail.com**
 
-- ⚡ Fun fact **I am Just 15 LOL!**
+- ⚡ Fun fact **I Love Coding more Than My Studeies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
