@@ -1,5 +1,6 @@
-[![MasterHead](https://c.tenor.com/wF5RiCnfj34AAAAC/tenor.gif) style="justify-content : center"]
-<h1 align="center">Hi 👋, I'm Muffakir Hamid</h1>
+<div align="center">
+  <img src="https://c.tenor.com/wF5RiCnfj34AAAAC/tenor.gif" alt="MasterHead">
+</div><h1 align="center">Hi 👋, I'm Muffakir Hamid</h1>
 <h3 align="center">Web Developer: Crafting Creative Solutions with Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muffakiribnhamid&label=Profile%20views&color=0e75b6&style=flat" alt="muffakiribnhamid" /> </p>
