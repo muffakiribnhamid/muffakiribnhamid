@@ -1,18 +1,16 @@
-[![MasterHead](https://c.tenor.com/wF5RiCnfj34AAAAC/tenor.gif)]
+[![MasterHead](https://c.tenor.com/wF5RiCnfj34AAAAC/tenor.gif) style="justify-content : center"]
 <h1 align="center">Hi 👋, I'm Muffakir Hamid</h1>
-<h3 align="center">App and Web Developer: Crafting Creative Solutions with Code</h3>
+<h3 align="center">Web Developer: Crafting Creative Solutions with Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muffakiribnhamid&label=Profile%20views&color=0e75b6&style=flat" alt="muffakiribnhamid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hamidmuffakir" target="blank"><img src="https://img.shields.io/twitter/follow/hamidmuffakir?logo=twitter&style=for-the-badge" alt="hamidmuffakir" /></a> </p>
 
-- 🔭 I’m currently working on [Synide AI BOT](https://github.com/muffakiribnhamid/SYNIDE--AI-BOT)
-
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muffakiribnhamid/](https://github.com/muffakiribnhamid/)
 
-- 💬 Ask me about **python,kotlin,android**
+- 💬 Ask me about ** Javascript,python,kotlin,android**
 
 - 📫 How to reach me **muffakir63@gmail.com**
 
