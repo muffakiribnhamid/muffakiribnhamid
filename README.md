@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muffakiribnhamid/](https://github.com/muffakiribnhamid/)
 
-- 💬 Ask me about ** Javascript,python,kotlin,android**
+- 💬 Ask me about ** React, Typescript,Javascript,python,kotlin,android**
 
 - 📫 How to reach me **muffakir63@gmail.com**
 
